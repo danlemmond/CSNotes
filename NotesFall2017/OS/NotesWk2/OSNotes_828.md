@@ -186,3 +186,10 @@
         - Killed by another process (involuntary)
         - Would a poorly written interrupt cause the last error?
             - No resumption?
+
+## Process Hierarchies (Trees)
+    - Parent creates a child process, child processes can create its own process
+    - Forms a hierarchy
+        - UNIX: a process and all its children and further descendents form a "process group"
+        - Init: a special process is present in the boot image
+    - Try **pstree -h**
