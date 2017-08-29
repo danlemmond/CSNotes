@@ -20,4 +20,4 @@ Please leave any questions you have about the material in the notes themselves -
 ## Questions
 Questions can be directed to dlemmond@uccs.edu  
 
-#Thank you.
+# Thank you.
