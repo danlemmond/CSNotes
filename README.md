@@ -13,7 +13,7 @@ If you wish to appeal a declined PR, please email dlemmond@uccs.edu
 
 ## Style Guide
 Directory structure is as follows:  
-    - Semester/Class/Week/Relevant Notes
+    - Semester/Class/Week/Relevant Notes  
     - Please see NotesFall2017 for an example of the style guide.  
 
 Files not saved as Markdown or PDF will be declined for PR.  
