@@ -2,6 +2,8 @@
 
 ## The purpose of this repository is to create a central resource for CS notes and resources.
 
+## DO NOT SUBMIT HOMEWORK TO THIS REPO. YOUR PR WILL BE DECLINED.
+
 ## PR Guide
 Pull Requests can be submitted to this repo by forking and adding the necessary changes to the files.  
 Please be aware that pull requests will only be approved for *insightful* answers or *interesting* questions.  
@@ -11,7 +13,8 @@ If you wish to appeal a declined PR, please email dlemmond@uccs.edu
 
 ## Style Guide
 Directory structure is as follows:  
-    - Semester/Class/Week/Relevant Notes  
+    - Semester/Class/Week/Relevant Notes
+    - Please see NotesFall2017 for an example of the style guide.  
 
 Files not saved as Markdown or PDF will be declined for PR.  
 Please attempt to conform to a high standard - proper grammar, correct punctuation, etc.  
